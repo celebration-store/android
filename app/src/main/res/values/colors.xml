@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#262938</color>
+  <color name="colorPrimaryDark">#181A24</color>
+  <color name="colorWhite">#FFFFFF</color>
+  <color name="colorTransparentWhite">#CCCCCC</color>
+  <color name="colorAccent">#f23d5d</color>
+
+  <!-- Login -->
+  <color name="colorLoginBtn">#f23d5d</color>
+  <!--  -->
+</resources>
+

@@ -1,0 +1,39 @@
+<resources>
+  <string name="app_name">celebration_store</string>
+  <!-- Login page -->
+  <string name="login_heading">Celebration Store</string>
+  <string name="login_email_label">Email</string>
+  <string name="login_password_label">Password</string>
+  <string name="login_email_placeholder">email</string>
+  <string name="login_passd_placeholder">password</string>
+  <string name="login_forget_passd">forget password?</string>
+  <string name="login_btn">Login</string>
+  <string name="login_dont_have_acct">"Don't have Account"</string>
+  <string name="login_sign_up">"Sign up"</string>
+  <!--  -->
+
+  <!-- Sign up -->
+  <string name="sign_up_heading">Celebration Store</string>
+  <string name="sign_up_name_label">Name</string>
+  <string name="sign_up_name_placeholder">enter name</string>
+  <string name="sign_up_email_label">Email</string>
+  <string name="sign_up_password_label">Password</string>
+  <string name="sign_up_email_placeholder">enter email</string>
+  <string name="sign_up_re_password_label">Password</string>
+  <string name="sign_up_re_password_placeholder">re enter email</string>
+  <string name="sign_up_passd_placeholder">enter password</string>
+  <string name="sign_up_already_have_accnt">Already have a account?</string>
+  <string name="sign_up_btn">Sign Up</string>
+  <string name="sign_up_login">"Login"</string>
+
+  <!--Bottom navigation bar menu name -->
+  <string name="title_activity_home">Home</string>
+  <string name="title_store">Store</string>
+  <string name="title_offer">Offers</string>
+  <string name="title_cart">Cart</string>
+  <string name="title_profile">Profile</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <!--  -->
+</resources>
